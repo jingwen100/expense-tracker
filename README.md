@@ -46,7 +46,7 @@ npx serve .
 
 1. 把本仓库 Fork / 克隆到你的 GitHub 账号
 2. 在仓库 **Settings → Pages** 中，选择部署来源为 `main` 分支的 `/root`（或 `gh-pages` 分支）
-3. 等待片刻，访问 `https://<你的用户名>.github.io/<仓库名>/`
+3. 等待片刻，访问 `https://jingwen100.github.io/expense-tracker/`
 
 由于是纯静态站点，也可以部署到任何静态托管平台（Vercel、Netlify、Cloudflare Pages 等）。
 
